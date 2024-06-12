@@ -3,7 +3,7 @@ STM32F446-RE-AHRS-MPU9250-IMU-SENSOR-VERILERI Stm32f446-re modeli üzerinden imu
 
 
 
-[image](https://github.com/karanizeybek/STM32F446-RE-AHRS-MPU9250-IMU-SENSOR-VERISI/assets/76970557/93cccb8c-dbe9-416b-9c60-192aee7035dc)
+![image](https://github.com/karanizeybek/STM32F446-RE-AHRS-MPU9250-IMU-SENSOR-VERISI/assets/76970557/8fbf6d7a-2645-4c4f-aa93-a06f10c9ee8f)
 
 
 
